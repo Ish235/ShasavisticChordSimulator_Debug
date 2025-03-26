@@ -1,0 +1,1 @@
+# ShasavisticChordSimulator_Debug
